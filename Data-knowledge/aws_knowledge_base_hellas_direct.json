@@ -1,0 +1,4307 @@
+[ 
+  {
+    "id": "partner_garages", 
+    "type": "garage_list",
+    "language": "el",
+    "garages": [
+      {
+        "type": "ΒΟΥΛΚΑΝΙΖΑΤΕΡ",
+        "name": "ΠΑΝΙΚΙΔΗΣ",
+        "address": "Αλ.Παναγούλη 39, Χαλάνδρι 152 38"
+      },
+      {
+        "type": "ΒΟΥΛΚΑΝΙΖΑΤΕΡ",
+        "name": "TYRE CITY",
+        "address": "Λιοσίων 269, Αθήνα 104 45"
+      },
+      {
+        "type": "ΒΟΥΛΚΑΝΙΖΑΤΕΡ",
+        "name": "WHEELPOWER ΧΑΤΖΗΓΕΩΡΓΙΟΥ",
+        "address": "Λεωφ.Μεσογείων 377, Χαλάνδρι 152 31"
+      },
+      {
+        "type": "ΒΟΥΛΚΑΝΙΖΑΤΕΡ",
+        "name": "ΤΣΙΟΥΚΗΣ ΗΛΙΑΣ",
+        "address": "Κασταμονής 69, Νέα Ιωνία 142 35"
+      },
+      {
+        "type": "ΒΟΥΛΚΑΝΙΖΑΤΕΡ",
+        "name": "ΠΑΡΑΠΟΝΙΑΡΗΣ",
+        "address": "Μισούντος, Καισαριανή 161 21"
+      },
+      {
+        "type": "ΓΕΝΙΚΟ ΣΥΝΕΡΓΕΙΟ",
+        "name": "ΑΛΕΤΡΑΣ ΒΑΣΙΛΕΙΟΣ",
+        "address": "Τατοΐου 11, Μεταμόρφωση, 14451"
+      },
+      {
+        "type": "ΓΕΝΙΚΟ ΣΥΝΕΡΓΕΙΟ",
+        "name": "AK LYGIZOS - ΛΥΓΙΖΟΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+        "address": "Μπάρκουλη 3-5, Μεταμόρφωση, 14451"
+      },
+      {
+        "type": "ΓΕΝΙΚΟ ΣΥΝΕΡΓΕΙΟ",
+        "name": "ΕΞΥΠΗΡΕΤΕΙS4ALL BRIGHT SOLUTIONS",
+        "address": "Λεωφόρος Βουλιαγμένης 102, 167 77 Ελληνικό Αττικής"
+      },
+      {
+        "type": "ΓΕΝΙΚΟ ΣΥΝΕΡΓΕΙΟ",
+        "name": "ΑΓΓΕΛΑΚΗΣ ΙΩΑΝΝΗΣ",
+        "address": "Αριστείδου 20, Χαροκόπου, 176 71 Καλλιθέα Αττικής"
+      },
+      {
+        "type": "ΚΡΥΣΤΑΛΛΑΔΙΚΟ",
+        "name": "Τάκης Κρισταλ",
+        "address": "Λεωφ. Ειρήνης 24, Πεύκη, 15121"
+      }
+    ]
+  },
+  {
+    "id": "accident_case_002", 
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 2",
+    "source": "DialogsAC2.docx",
+    "content": "1.\nA: HD Insurance καλημέρα σας, πως μπορώ να βοηθήσω;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_003", 
+    "type": "dialogue",
+    "topic": "accident_case", 
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 3",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Καλημέρα σας, μόλις με χτύπησε ένας κύριος ενώ ήμουν σταθμευμένος.",
+    "tags": [ 
+      "fast_track", 
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_004",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 4",
+    "source": "DialogsAC2.docx",
+    "content": "A: Είστε όλοι εντάξει, υπάρχει κάποιος τραυματισμός;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_005",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 5",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Δεν υπάρχει τραυματισμός, μόνο υλικές ζημιές.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_008",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 8",
+    "source": "DialogsAC2.docx",
+    "content": "A: Σε ποιό όνομα είναι το ασφ. Συμβόλαιο;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_009",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 9",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Είναι στο όνομα Πιπερίδης Πέτρος.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_010",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 10",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πολύ ωραία, είστε ο ίδιος;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_011",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 11",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Σωστά, είμαι ο ιδιοκτήτης.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_012",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 12",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πως ενημερωθήκατε για το συμβάν;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_013",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 13",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Ήμουν ακριβώς απέξω, μόλις είχα παρκάρει κ το είδα να συμβαίνει.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_014",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 14",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πείτε μου που υπάρχουν ζημιές στο όχημά σας;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_015",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 15",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Η ζημιά μου είναι στον οπίσθιο φτερό αριστερά, απο τη μεριά του οδηγού, έχει ένα βαθούλωμα.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_016",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 16",
+    "source": "DialogsAC2.docx",
+    "content": "A: Το όχημά σας κινείται, σωστά;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_017",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 17",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Ναι κινείται.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_018",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 18",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πείτε μου την πινακίδα του άλλου οχήματος, παρακαλώ!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_019",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 19",
+    "source": "DialogsAC2.docx",
+    "content": "Π: ΑΑΑ1235, ένα μαύρο Ford Focus.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_020",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 20",
+    "source": "DialogsAC2.docx",
+    "content": "A: Τον οδηγό του άλλου οχήματος τον γνωρίζετε; Γιατί θα χρειαστούμε κάποια στοιχεία του.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_021",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 21",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Τον γνωρίζω, φατσικά λόγω γειτονιάς, μένει ακριβώς στη διπλά πολυκατοικία.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_022",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 22",
+    "source": "DialogsAC2.docx",
+    "content": "A: Θα χρειαστεί να μιλήσω λίγο μαζί του για κάποια στοιχεία.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_023",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 23",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Σας τον δίνω!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_024",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 24",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Παρακαλώ!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_025",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 25",
+    "source": "DialogsAC2.docx",
+    "content": "A: Καλημέρα σας, ονομάζομαι Χρήστος απο την Hellas Direct, να σας ενημερώσω πως η κλήση μας καταγράφεται για λόγους ασφαλείας προσωπικών δεδομένων. Είστε εντάξει με αυτό;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_026",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 26",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Φυσικά, κανένα πρόβλημα!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_027",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 27",
+    "source": "DialogsAC2.docx",
+    "content": "A: Είστε ο κάτοχος του οχήματος ΑΑΑ1235, σωστά; Μπορείτε να μου πείτε κ το ονοματεπώνυμό σας;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_028",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 28",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Σαλαμούρας, Βασίλειος, είναι στο όνομά μου το όχημα κ οδηγούσα εγώ.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_029",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 29",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πολύ ωραία, πείτε μου κ ένα κινητό σας τηλέφωνο, παρακαλώ",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_030",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 30",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: 6978901634",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_031",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 31",
+    "source": "DialogsAC2.docx",
+    "content": "A: Η ζημιά στο όχημά σας που βρίσκεται;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_032",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 32",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Στον εμπρόσθιο δεξί φτερό, απο την μεριά του συνοδηγού.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_033",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 33",
+    "source": "DialogsAC2.docx",
+    "content": "A: Ποια είναι η ασφαλιστική σας εταιρία;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_034",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 34",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Ιnteramerican.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_035",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 35",
+    "source": "DialogsAC2.docx",
+    "content": "A: Την έχετε ενημερώσει για να προχωρήσετε σε δήλωση;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_036",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 36",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Φυσικά, αναμένω να έρθει κάποιος στο σημείο.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_037",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 37",
+    "source": "DialogsAC2.docx",
+    "content": "A: Αποδέχεστε την ευθύνη για το συμβάν;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_038",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 38",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Σαφώς! Είναι δικό μου το φταίξιμο.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_039",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 39",
+    "source": "DialogsAC2.docx",
+    "content": "A: Σας ευχαριστώ πολύ, μπορείτε να μου δώσετε πίσω τον ασφ/νο μας,",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_040",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 40",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Παρακαλώ!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_043",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 43",
+    "source": "DialogsAC2.docx",
+    "content": "A: Κάντε μου μια μικρή περιγραφή.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_044",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 44",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Ήμουν παρκαρισμένος επι της οδού Σωρού, στη δεξιά πλευρά της οδού, απέναντι απο το κατάστημα Le Brunch. Στην προσπάθειά του να σταθμεύσει το άλλο όχημα, πίσω απο το δικό μου, προσέκρουσε επάνω του κατα τον ελιγμό παρκαρίσματος.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_045",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 45",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πολύ ωραία! Έχω καταλάβει ακριβώς πως έχει γίνει το συμβάν. Σας ενημερώνουμε οτι η δήλωσή σας ολοκληρώθηκε επιτυχώς, ο άλλος εμπλεκόμενος αποδέχτηκε την ευθύνη για το συμβάν κ αναμένει για να κάνει δήλωση στο σημείο. Μπορείτε να μου στείλετε κάποιες φωτογραφίες απλές με το κινητό σας για να φύγετε πιο γρήγορα απο το σημείο κ για να τρέξει κ η διαδικασία πολύ πιο γρήγορα απο μέρους μας;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_046",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 46",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Φυσικά, κανένα πρόβλημα.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_047",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 47",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πολύ ωραία, θα χρειαστούμε φωτογραφίες απο την άδεια κυκλοφορίας του οχήματος κ το δίπλωμα το δικό σας (εμπρός-πίσω να φαίνονται όλες οι σελίδες κ τα στοιχεία καθαρά), φωτογραφίες των ζημιών των οχημάτων (κοντινες κ μακρινές φωτογραφίες να φαίνονται στις μακρινές κ οι πινακίδες), κ τέλος φωτογραφίες απο το σημείο του συμβάντος, μια γενική του δρόμου.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_048",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 48",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Πως θα σας στείλω τις φωτογραφίες;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_049",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 49",
+    "source": "DialogsAC2.docx",
+    "content": "A: Θα λάβετε στο e-mail που μας έχετε δηλώσει την δήλωση του συμβάντος (σε pdf έτοιμη συμπληρωμενη) κ θα περιέχεται κ ένα Link, το οποίο θα σας σταλεί κ σε SMS στο κινητό που μιλάμε. Πατάτε επάνω στο Link, εισάγετε την πινακίδα σας κ στην πλατφόρμα που εμφανίζεται φορτώνετε τις φωτογραφίες που σας ζήτησα. Μέσα σε 2 εργάσιμες θα έχετε ενημέρωση απο εμάς, καθώς η εταιρία του εμπλεκόμενου είναι στον φιλικό διακανονισμό, πράγμα που σημαίνει πως εμείς θα εκτιμήσουμε τις επόμενες ημέρες το όχημά σας στο συνεργείο (δικό σας είτε συνεργαζόμενο δικό μας-θα σας καλέσουμε για να σας προτείνουμε), ώστε εν συνεχεία να προχωρήσει η διαδικασία αποκατάστασης της ζημιάς σας.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_050",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 50",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Σας ευχαριστώ πολύ! Καλή συνέχεια.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_051",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 51",
+    "source": "DialogsAC2.docx",
+    "content": "A: Να είστε καλά, στη διάθεσή σας!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_052",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 52",
+    "source": "DialogsAC2.docx",
+    "content": "2.\nA: HD Insurance καλημέρα σας, πως μπορώ να βοηθήσω;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_053",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 53",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Καλημέρα σας, μόλις με χτύπησε ένας κύριος που πέρασε το Stop.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_054",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 54",
+    "source": "DialogsAC2.docx",
+    "content": "A: Είστε όλοι εντάξει, υπάρχει κάποιος τραυματισμός;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_055",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 55",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Δεν υπάρχει τραυματισμός, μόνο υλικές ζημιές.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_056",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 56",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πείτε μου που υπάρχουν ζημιές στο όχημά σας;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_057",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 57",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Η ζημιά μου είναι στην πόρτα του οδηγού.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_058",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 58",
+    "source": "DialogsAC2.docx",
+    "content": "A: Το όχημά σας κινείται ή θα χρειαστείτε μεταφορά;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_059",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 59",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Όχι δεν κινείται, θα χρειαστεί γερανό.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_060",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 60",
+    "source": "DialogsAC2.docx",
+    "content": "A: Εντάξει, θα σας στείλουμε έναν γερανό για να ρυμουλκήσει το όχημα. Θέλετε να σας προτείνουμε κάποιο δικό μας συνεργείο;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_061",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 61",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Ναι, παρακαλώ, κοντά στην περιοχή του Αμαρουσίου.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_062",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 62",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πολύ ωραία, μπορούμε να το πάμε στον Πασπαρτού Πέτρο, Λεωφ. Κηφισίας 48 Μαρούσι. Πείτε μου και την πινακίδα του άλλου οχήματος, παρακαλώ!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_063",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 63",
+    "source": "DialogsAC2.docx",
+    "content": "Π: ΑΑΑ1235, ένα μαύρο Ford Focus.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_064",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 64",
+    "source": "DialogsAC2.docx",
+    "content": "A: Τον οδηγό τον έχετε κοντά σας;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_065",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 65",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Ναι, είναι εδώ δίπλα μου, να σας τον δώσω.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_066",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 66",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Παρακαλώ!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_067",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 67",
+    "source": "DialogsAC2.docx",
+    "content": "A: Καλημέρα σας, ονομάζομαι Χρήστος από την Hellas Direct. Να σας ενημερώσω ότι η κλήση καταγράφεται. Είστε εντάξει με αυτό;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_068",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 68",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Φυσικά, κανένα πρόβλημα.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_069",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 69",
+    "source": "DialogsAC2.docx",
+    "content": "A: Η ζημιά στο όχημά σας πού βρίσκεται;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_070",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 70",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Στον εμπρόσθιο προφυλακτήρα, κεντρικά. Έγινε μαντάρα!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_071",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 71",
+    "source": "DialogsAC2.docx",
+    "content": "A: Ποια είναι η ασφαλιστική σας εταιρεία;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_072",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 72",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Interamerican.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_073",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 73",
+    "source": "DialogsAC2.docx",
+    "content": "A: Την έχετε ενημερώσει;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_074",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 74",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Ναι, αναμένω να έρθει κάποιος.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_075",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 75",
+    "source": "DialogsAC2.docx",
+    "content": "A: Αποδέχεστε την ευθύνη για το συμβάν;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_076",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 76",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Σαφώς. Φταίω εγώ.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_077",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 77",
+    "source": "DialogsAC2.docx",
+    "content": "A: Σας ευχαριστώ πολύ. Μπορείτε να μου δώσετε πίσω τον ασφαλισμένο μας;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_078",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 78",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Παρακαλώ!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_081",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 81",
+    "source": "DialogsAC2.docx",
+    "content": "A: Μπορείτε να μου δώσετε μια σύντομη περιγραφή;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_082",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 82",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Κινούμουν στην Σωρού προς Κηφισίας, όταν το άλλο όχημα ήρθε από τα αριστερά και με χτύπησε.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_083",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 83",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πολύ ωραία! Θα σας στείλουμε άνθρωπο στο σημείο για καταγραφή και γερανό για να ρυμουλκήσει το όχημά σας. Θα είναι κοντά σας εντός της ώρας.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_084",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 84",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Σας ευχαριστώ πολύ! Οπότε αναμένω στο σημείο.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_085",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 85",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πολύ σωστά. Οτιδήποτε χρειαστείτε, είμαστε εδώ.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+  "id": "accident_case_157_partner_by_choice",
+  "type": "dialogue",
+  "topic": "accident_case",
+  "language": "el",
+  "title": "Πελάτης επιλέγει συνεργαζόμενο για ταχύτητα",
+  "source": "mock_generated",
+  "content": "Π: Μπορείτε να το πάτε όπου νομίζετε, απλά να γίνει γρήγορα. Πρέπει να πάω στη δουλειά.\nA: Κατανοητό. Τότε προτείνω το Τάκης Κρισταλ, συνεργαζόμενο μας, με προτεραιότητα στα ασφαλισμένα οχήματα. Θέλετε να το προχωρήσουμε;\nΠ: Ναι, κάντε το.",
+  "tags": ["partner_garage", "fast_track", "dialogue"] 
+  },
+  {
+    "id": "accident_case_086",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 86",
+    "source": "DialogsAC2.docx",
+    "content": "3.\nA: HD Insurance καλημέρα σας, πως μπορώ να βοηθήσω;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_087",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 87",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Καλημέρα σας, μόλις έσπασε το τζάμι του αυτοκινήτου μου, το εμπρόσθιο παρμπρίζ.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_088",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 88",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πότε έγινε το συμβάν;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_089",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 89",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Χθες το πρωί το αντιλήφθηκα.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_090",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 90",
+    "source": "DialogsAC2.docx",
+    "content": "A: Επομένως μιλάμε για σπάσιμο στο εμπρόσθιο παρμπρίζ ή για ρωγμή;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_091",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 91",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Έχει μια ρωγμή, το είχα παρκαρισμένο και το βρήκα έτσι.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_092",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 92",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πού ήταν παρκαρισμένο;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_093",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 93",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Καλλιπόλεως 49 στον Βύρωνα.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_094",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 94",
+    "source": "DialogsAC2.docx",
+    "content": "A: Από ό,τι βλέπω έχετε την κάλυψη της θραύσης κρυστάλλων στο συμβόλαιό σας. Μπορείτε να το πάτε στην Carglass για επισκευή ή αντικατάσταση, ανάλογα με το τι χρειαστεί. Δεν επιβαρύνεστε με κάποιο κόστος για εργατικά ή υλικό συνεργάτη.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_095",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 95",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Ωραία.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_096",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 96",
+    "source": "DialogsAC2.docx",
+    "content": "A: Σημειώστε ένα τηλέφωνο για ραντεβού: 2130300589. Έχω στείλει ήδη την προέγκριση, οπότε επικοινωνείτε με εκείνους και προχωράτε κανονικά.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_097",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 97",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Σας ευχαριστώ πολύ!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_098",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 98",
+    "source": "DialogsAC2.docx",
+    "content": "A: Να είστε καλά!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+  "id": "roadside_case_153_emood_island",
+  "type": "dialogue",
+  "topic": "roadside_case",
+  "language": "el",
+  "title": "Ακινητοποίηση σε νησί – eMood κουπόνι",
+  "source": "mock_generated",
+  "content": "Π: Το αμάξι μου δεν παίρνει μπροστά, είμαι στη Σίφνο για διακοπές.\nA: Καταλαβαίνω, σας ευχαριστώ. Σε τέτοιες περιπτώσεις ενεργοποιούμε τη διαδικασία του Επαναπατρισμού. Θα συνεννοηθούμε για μεταφορά στο λιμάνι και από εκεί στην Αθήνα.\nΠ: Εντάξει, τι άλλο χρειάζεται;\nA: Θα χρειαστούμε τοποθεσία και φωτογραφίες, και ως συγγνώμη για την ταλαιπωρία θα λάβετε και έναν εκπτωτικό κωδικό 50€ για eMood.",
+  "tags": ["roadside", "emood_coupon", "island", "dialogue"] 
+  },
+  {
+  "id": "roadside_case_160_ev_cable_cut", 
+  "type": "dialogue",
+  "topic": "accident_case",
+  "language": "el",
+  "title": "Ηλεκτρικό – Κομμένο καλώδιο φόρτισης",
+  "source": "mock_generated",
+  "content": "Π: Το καλώδιο φόρτισης μάλλον κόπηκε, δεν κουμπώνει καλά και το αμάξι δεν αναγνωρίζει τη σύνδεση.\nA: Αυτό μπορεί να συμβαίνει αν έχει φθαρεί ή κοπεί κάποιος αγωγός. Μπορούμε να σας στείλουμε τεχνικό ή να μεταφερθεί το όχημα σε εξειδικευμένο συνεργείο για έλεγχο. Ποια επιλογή προτιμάτε;\nΠ: Να πάει συνεργείο καλύτερα.",
+  "tags": ["electric_vehicle", "charging_cable", "dialogue"]
+  },
+  {
+    "id": "accident_case_100",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 100",
+    "source": "DialogsAC2.docx",
+    "content": "A: HD Insurance καλημέρα σας, πως μπορώ να βοηθήσω;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_101",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 101",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Καλημέρα σας, μόλις έσπασε το τζάμι του αυτοκινήτου μου, το εμπρόσθιο παρμπρίζ.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_102",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 102",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πότε έγινε το συμβάν;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_103",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 103",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Χθες το πρωί το αντιλήφθηκα.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_104",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 104",
+    "source": "DialogsAC2.docx",
+    "content": "A: Επομένως μιλάμε για σπάσιμο στο εμπρόσθιο παρμπρίζ ή για ρωγμή;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_105",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 105",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Έχει μια ρωγμή, το είχα παρκαρισμένο και το βρήκα έτσι.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_106",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 106",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πού ήταν παρκαρισμένο;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_107",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 107",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Καλλιπόλεως 49 στον Βύρωνα.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_108",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 108",
+    "source": "DialogsAC2.docx",
+    "content": "A: Από ό,τι βλέπω δεν έχετε την κάλυψη της θραύσης κρυστάλλων στο συμβόλαιό σας. Επομένως, δε μπορούμε να σας βοηθήσουμε για την επισκευή. Μπορούμε να σας προτείνουμε με δική σας χρέωση κάποιο συνεργαζόμενο συνεργείο.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_109",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 109",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Εγώ γιατί σας πληρώνω όμως;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_110",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 110",
+    "source": "DialogsAC2.docx",
+    "content": "A: Έχετε αγοράσει το βασικό υποχρεωτικό πακέτο βάσει νόμου, για την αστική σας ευθύνη. Δηλαδή για την περίπτωση που τρακάρετε κάποιον άλλον οδηγό και θα πρέπει να αποζημιωθεί.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_111",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 111",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Εντάξει, θα ακυρώσω το συμβόλαιό μου.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+  "id": "accident_case_166_possible_fraud",
+  "type": "dialogue",
+  "topic": "accident_case",
+  "language": "el",
+  "title": "Ύποπτο περιστατικό – πιθανή απάτη",
+  "source": "mock_generated",
+  "content": "Π: Έχω μια ζημιά στο αμάξι και λέω να πω ότι με χτύπησαν για να το καλύψει η ασφάλεια.\nA: Καταλαβαίνω. Σε τέτοια περίπτωση θα χρειαστεί να σε συνδέσω με εκπρόσωπο για λεπτομερή καταγραφή του συμβάντος. Παρακαλώ μείνε στη γραμμή.",
+  "tags": ["accident", "possible_fraud", "handover", "dialogue"]
+  },
+  {
+    "id": "accident_case_112",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 112",
+    "source": "DialogsAC2.docx",
+    "content": "5.\nA: HD Insurance καλημέρα σας, πως μπορώ να βοηθήσω;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_113",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 113",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Καλημέρα σας, μόλις με χτύπησε ένας κύριος που πέρασε το Stop.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_114",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 114",
+    "source": "DialogsAC2.docx",
+    "content": "A: Είστε όλοι εντάξει, υπάρχει κάποιος τραυματισμός;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_150",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 150",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Το όχημά μου κόλλησε σε λάσπη.",
+    "tags": [
+      "statement",
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_115",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 115",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Δεν υπάρχει τραυματισμός, μόνο υλικές ζημιές.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_116",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 116",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πού υπάρχουν ζημιές στο όχημά σας;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_117",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 117",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Η ζημιά μου είναι στην πόρτα του οδηγού.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_118",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 118",
+    "source": "DialogsAC2.docx",
+    "content": "A: Το όχημά σας κινείται ή θα χρειαστείτε μεταφορά;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_119",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 119",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Όχι δεν κινείται, θα χρειαστεί γερανό.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_120",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 120",
+    "source": "DialogsAC2.docx",
+    "content": "A: Εντάξει, θα σας στείλουμε έναν γερανό για να ρυμουλκήσει το όχημα. Θέλετε να σας προτείνουμε κάποιο δικό μας συνεργείο;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_121",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 121",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Όχι, θα ήθελα να μου προτείνετε κάποιο κοντά στο σπίτι μου, στο Γαλάτσι, όχι συνεργαζόμενο.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_122",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 122",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πολύ ωραία. Από αναζήτηση στο διαδίκτυο βλέπω ένα κοντά σας: Πασπαρτού Garage, Λεωφ. Γαλατσίου 48.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_123",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 123",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πείτε μου και την πινακίδα του άλλου οχήματος, παρακαλώ!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_124",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 124",
+    "source": "DialogsAC2.docx",
+    "content": "Π: ΑΑΑ1235, ένα μαύρο Ford Focus.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_125",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 125",
+    "source": "DialogsAC2.docx",
+    "content": "A: Τον οδηγό τον έχετε κοντά σας;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_126",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 126",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Είναι εδώ, να σας τον δώσω.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_127",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 127",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Παρακαλώ!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_128",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 128",
+    "source": "DialogsAC2.docx",
+    "content": "A: Καλημέρα, Χρήστος από την Hellas Direct. Η κλήση καταγράφεται, είστε εντάξει με αυτό;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_129",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 129",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Φυσικά.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_130",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 130",
+    "source": "DialogsAC2.docx",
+    "content": "A: Η ζημιά στο όχημά σας πού είναι;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_131",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 131",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Στον εμπρόσθιο προφυλακτήρα, κεντρικά. Έγινε μαντάρα!",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_132",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 132",
+    "source": "DialogsAC2.docx",
+    "content": "A: Ποια είναι η ασφαλιστική σας;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_133",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 133",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Interamerican.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_134",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 134",
+    "source": "DialogsAC2.docx",
+    "content": "A: Έχετε ενημερώσει;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_135",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 135",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Ναι, περιμένω να έρθει κάποιος.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_136",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 136",
+    "source": "DialogsAC2.docx",
+    "content": "A: Αποδέχεστε την ευθύνη;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_137",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 137",
+    "source": "DialogsAC2.docx",
+    "content": "3ος: Ναι, είναι δικό μου το φταίξιμο.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_138",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 138",
+    "source": "DialogsAC2.docx",
+    "content": "A: Ευχαριστώ, να μου δώσετε πίσω τον ασφαλισμένο μας.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_139",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 139",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Ορίστε.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+  "id": "roadside_case_150_emood",
+  "type": "dialogue",
+  "topic": "roadside_case",
+  "language": "el",
+  "title": "Ατύχημα εκτός νομού με κουπόνι eMood",
+  "source": "mock_generated",
+  "content": "Π: Το αμάξι μου έμεινε κοντά στην Καλαμάτα και δεν παίρνει μπροστά.\nA: Ευχαριστώ για την ενημέρωση. Αφού είστε εκτός νομού, θα πρέπει να ενεργοποιηθεί η διαδικασία του Επαναπατρισμού. Θα σας στείλουμε γερανό για να μεταφέρουμε το όχημα σε συνεργείο της επιλογής σας.\nΠ: Εντάξει, ευχαριστώ πολύ.\nA: Ως μικρή συγγνώμη για την ταλαιπωρία, θα σου στείλουμε έναν εκπτωτικό κωδικό αξίας 50€ για eMood. Ευχαριστούμε για την υπομονή σου!",
+  "tags": ["roadside", "emood_coupon", "dialogue"] 
+  },
+  {
+    "id": "accident_case_140",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 140",
+    "source": "DialogsAC2.docx",
+    "content": "A: Πού έγινε το συμβάν;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_141",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 141",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Σωρού και Αμαρουσίου Χαλανδρίου, Μαρούσι.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_142",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 142",
+    "source": "DialogsAC2.docx",
+    "content": "A: Μια σύντομη περιγραφή;",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_143",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 143",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Κινούμουν στην Σωρού με κατεύθυνση προς Κηφισίας, όταν το άλλο όχημα ήρθε από τα αριστερά και με χτύπησε.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_144",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 144",
+    "source": "DialogsAC2.docx",
+    "content": "A: Θα σας στείλουμε καταγραφέα και γερανό. Θα είναι κοντά σας εντός της ώρας.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_145",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 145",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Σας ευχαριστώ πολύ! Αναμένω στο σημείο.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_146",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 146",
+    "source": "DialogsAC2.docx",
+    "content": "A: Στη διάθεσή σας, ό,τι χρειαστείτε.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  { 
+  "id": "roadside_case_158_ev_wallbox",
+  "type": "dialogue",
+  "topic": "roadside_case",
+  "language": "el",
+  "title": "Ηλεκτρικό – Δεν φορτίζει στο wallbox",
+  "source": "mock_generated",
+  "content": "Π: Το αυτοκίνητό μου δεν φορτίζει στο wallbox. Δοκίμασα δύο φορές.\nA: Μήπως σας βγάζει κάποιο σφάλμα στην οθόνη ή στο app του αυτοκινήτου;\nΠ: Όχι, απλά το wallbox αναβοσβήνει κόκκινο και δεν ξεκινά η φόρτιση.\nA: Καταλαβαίνω. Θα στείλουμε γερανό για μεταφορά σε εξειδικευμένο συνεργείο.",
+  "tags": ["electric_vehicle", "charging_issue", "dialogue"] 
+  },
+  {
+  "id": "accident_case_151_partner_garage",
+  "type": "dialogue",
+  "topic": "accident_case",
+  "language": "el",
+  "title": "Πρόταση συνεργαζόμενου συνεργείου",
+  "source": "mock_generated",
+  "content": "Π: Το όχημά μου έχει τραβήξει δεξιά και ακουμπήσει σε κολώνα, έσπασε ο καθρέφτης και έχει γρατζουνιές.\nA: Καταλαβαίνω. Θέλετε να σας προτείνω κάποιο συνεργαζόμενο συνεργείο κοντά στην περιοχή σας;\nΠ: Ναι, παρακαλώ.\nA: Έχουμε συνεργασία με το Tyre City, στη Λιοσίων 269. Να το προχωρήσουμε εκεί;\nΠ: Ναι, ας το πάμε εκεί.\nA: Πολύ ωραία, οργανώνω την παραλαβή και σας στέλνω και SMS με όλες τις λεπτομέρειες.",
+  "tags": ["accident", "partner_garage", "dialogue"] 
+  },
+  {
+  "id": "roadside_case_152_ev_support", 
+  "type": "dialogue",
+  "topic": "roadside_case",
+  "language": "el",
+  "title": "Περιστατικό με ηλεκτρικό αυτοκίνητο",
+  "source": "mock_generated",
+  "content": "Π: Έχω ηλεκτρικό αυτοκίνητο και σταμάτησε ξαφνικά, δείχνει σφάλμα στην μπαταρία.\nA: Εντάξει, ευχαριστώ για τη διευκρίνιση. Τα ηλεκτρικά έχουν διαφορετική διαχείριση. Θα στείλουμε γερανό κατάλληλο για EV, και αν θέλετε, να το μεταφέρουμε σε εξειδικευμένο συνεργείο.\nΠ: Ναι, να πάει σε κάποιο που γνωρίζει από ηλεκτρικά.\nA: Πολύ ωραία. Θα σας έρθει SMS με όλα τα στοιχεία.",
+  "tags": ["roadside", "electric_vehicle", "dialogue"] 
+  },
+  {
+    "id": "roadside_case_003",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 3",
+    "source": "DialogsRA2.docx",
+    "content": "Α: HD Insurance, καλημέρα, είμαι ο Κωνσταντίνος πώς μπορώ να βοηθήσω;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_004",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 4",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι καλημέρα, Παπαδόπουλος λέγομαι έχω μείνει με το αμάξι, δεν παίρνει μπροστά.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_005",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 5",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Έχετε κάποια εικόνα σχετικά με την βλάβη που έχει παρουσιάσει το αυτοκίνητο;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_006",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 6",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Μάλλον από μπαταρία έχει μείνει, είχα αφήσει ανοιχτά τα αλάρμ.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_007",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 7",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Όταν πηγαίνετε να το βάλετε μπροστά δεν εμφανίζονται ενδείξεις στο ταμπλό;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_008",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 8",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Όχι τίποτα, είναι νεκρό.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_009",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 9",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ούτε τα παράθυρα ανεβοκατεβαίνουν; Ούτε το ραδιόφωνο λειτουργεί;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_010",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 10",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Είναι όλα νεκρά.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_011",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 11",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Οκ,οπότε θα στείλουμε έναν συνεργάτη να φορτίσει το όχημα επί τόπου.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_012",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 12",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι πιστεύω θα πάρει μπροστά με μια φόρτιση.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_013",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 13",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Το όχημα πού βρίσκεται αυτή τη στιγμή;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_014",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 14",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Στην Αθήνα.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_015",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 15",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Πολύ ωραία! Αν θέλετε μου δίνετε και το χρώμα του αυτοκινήτου για να διευκολύνουμε τον συνάδελφο;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_016",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 16",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Είναι μπλέ.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_017",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 17",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ευχαριστώ πολύ! Στέλνουμε λοιπόν την εντολή, υπολογίστε από τα επόμενα 10 λεπτά μέχρι την επόμενη ώρα θα βρίσκεται στο σημείο. Μπορώ να κρατήσω το τηλέφωνο που μιλάμε για να σας καλέσει ο συνεργάτης;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_018",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 18",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι φυσικά.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_019",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 19",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Τέλεια! Κλείνοντας θα ήθελα να ρωτήσω αν έχετε στο κινητό σας την εφαρμογή του e-food. Aν θέλετε μπορούμε να σας στείλουμε έναν κωδικό αξίας 5 ευρώ ώστε στην επόμενη παραγγελία σας να έχετε μια έκπτωση από εμάς. Μπορείτε να παραγγείλετε κάτι και όσο περιμένετε.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_020",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 20",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι,ευχαριστώ πολύ!",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_021",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 21",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ωραία,τότε θα σας τον στείλω μέσω sms. Καλή σας μέρα.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+  "id": "roadside_case_159_ev_inverter",
+  "type": "dialogue",
+  "topic": "roadside_case",
+  "language": "el",
+  "title": "Ηλεκτρικό – Πιθανή βλάβη inverter",
+  "source": "mock_generated",
+  "content": "Π: Οδηγούσα κανονικά και ξαφνικά άναψαν όλες οι ενδείξεις, τώρα δεν ξεκινά καν.\nA: Αυτό ίσως σχετίζεται με το inverter. Ευτυχώς το ασφαλιστήριο σας καλύπτει οδική βοήθεια. Θα στείλουμε γερανό κατάλληλο για EV για να το μεταφέρουμε σε εξειδικευμένο συνεργείο. Είστε σε ασφαλές σημείο αυτή τη στιγμή;\nΠ: Ναι, είμαι στη δεξιά λωρίδα.\nA: Ωραία, μείνετε μέσα στο όχημα μέχρι να φτάσει ο οδηγός. Θα ενημερωθείτε με SMS.",
+  "tags": ["electric_vehicle", "inverter", "dialogue", "serious_case"]
+  },
+  {
+  "id": "roadside_case_160_ev_cable_cut",
+  "type": "dialogue",
+  "topic": "roadside_case", 
+  "language": "el",
+  "title": "Ηλεκτρικό – Κομμένο καλώδιο φόρτισης",
+  "source": "mock_generated",
+  "content": "Π: Το καλώδιο φόρτισης μάλλον κόπηκε, δεν κουμπώνει καλά και το αμάξι δεν αναγνωρίζει τη σύνδεση.\nA: Αυτό μπορεί να συμβαίνει αν έχει φθαρεί ή κοπεί κάποιος αγωγός. Μπορούμε να σας στείλουμε τεχνικό ή να μεταφερθεί το όχημα σε εξειδικευμένο συνεργείο για έλεγχο. Ποια επιλογή προτιμάτε;\nΠ: Να πάει συνεργείο καλύτερα.",
+  "tags": ["electric_vehicle", "charging_cable", "dialogue"]
+  },
+  {
+    "id": "roadside_case_023",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 23",
+    "source": "DialogsRA2.docx",
+    "content": "Α: HD Insurance, καλημέρα, είμαι η Μαριάννα πώς μπορώ να βοηθήσω;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_024",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 24",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι καλημέρα, έχω μείνει από λάστιχο. Το μπροστά δεξιά. Έσκασε εν κινήσει.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_025",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 25",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Είπατε ότι έχετε μείνει από λάστιχο.Υπάρχει ρεζέρβα στο όχημα;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_026",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 26",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι έχω ρεζέρβα αλλά δεν έχω γρύλο για να το αλλάξω και θέλω την βοήθειά σας.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_027",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 27",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Φυσικά,θα στείλουμε εμείς συνεργάτη για επί τόπου αντικατάσταση.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_028",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 28",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Είμαι στο κέντρο της Αθήνας, στην οδό Φιλελλήνων απέναντι από μια εκκλησία. Δεν βλέπω κάποιο νούμερο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_031",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 31",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Αν θέλετε μου δίνετε και το χρώμα του αυτοκινήτου για να διευκολύνουμε τον συνάδελφο;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_032",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 32",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Kόκκινο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_033",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 33",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ευχαριστώ πολύ! Οπότε στέλνουμε τώρα την εντολή,υπολογίστε από τα επόμενα 10 λεπτά μέχρι την επόμενη ώρα θα βρίσκεται στο σημείο. Μπορώ να κρατήσω το τηλέφωνο που μιλάμε για να σας καλέσει ο συνεργάτης;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_034",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 34",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Κρατήστε το. Αλλά ρε παιδιά θα κάνει μία ώρα να έρθει για ένα λάστιχο; Έχουμε και δουλειές. Σε άλλη ασφαλιστική που ήμουν είχαν έρθει στο δεκάλεπτο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_035",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 35",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Καταλαβαίνετε ότι υπάρχουν αρκετά περιστατικά αυτή την ώρα και τηρείται σειρά προτεραιότητας. Ο πρώτος διαθέσιμος συνεργάτης που θα βρίσκεται πιο κοντά σας θα αναλάβει την εντολή.Θα ζητήσουμε και να σας καλέσει πλησιάζοντας.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_036",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 36",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Aν είναι σε μια ώρα τί να τον κάνω;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_037",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 37",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ο μέγιστος χρόνος αναμονής είναι η ώρα. Μπορεί να είναι στο σημείο και νωρίτερα. Αναλόγως με τα περιστατικά. Έχω στείλει πάντως την εντολή όσο μιλάμε για να κερδίσουμε χρόνο. Επίσης, θα στείλουμε έναν εκπτωτικό κωδικό αξίας 50€ για eMood ως μικρή συγγνώμη.",
+    "tags": ["emood_coupon",
+      "roadside",
+      "dialogue"
+    ] 
+  },
+  {
+    "id": "roadside_case_038",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 38",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Καλά εντάξει απαράδεκτοι. Σιγά μην ανανεώσω σε εσάς.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_039",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 39",
+    "source": "DialogsRA2.docx",
+    "content": "A: Καλή σας ημέρα. Αν χρειαστείτε το ο,τιδήποτε μπορείτε να ξανακαλέσετε.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_040",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 40",
+    "source": "DialogsRA2.docx",
+    "content": "3.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_041",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 41",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Είπατε ότι έχετε μείνει από λάστιχο. Υπάρχει ρεζέρβα στο όχημα;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_042",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 42",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Δυστυχώς δεν υπάρχει, θα πρέπει να μεταφερθεί σε βουλκανιζατέρ.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_043",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 43",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Οκ, οπότε θα στείλουμε όχημα για να σας μεταφέρει στο κοντινότερο. Το όχημα πού βρίσκεται ακριβώς;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_044",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 44",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Υπάρχει κάποια ιδιαιτερότητα που θα έπρεπε να γνωρίζουμε σχετικά με το όχημα; Είναι για παράδειγμα αυτόματο; Τετρακίνητο; Χαμηλωμένο;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_045",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 45",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Όχι είναι συμβατικό ΙΧ.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_046",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 46",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ούτε υπάρχει κάποιο φορτίο που να επιβαρύνει το όχημα, σωστά;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_047",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 47",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Όχι είναι άδειο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_048",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 48",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Έχετε υπ’όψιν κάποιο βουλκανιζατέρ που θα μπορούσαμε να μεταφέρουμε το αυτοκίνητο;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_049",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 49",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Στον Θαλασσούδη θα πάμε στην Καραμανλή.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_050",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 50",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ωραία, μάλλον μιλάμε για την Λεωφόρο Καραμανλή 11, Θεσσαλονίκη 546 38 που είναι και κοντά στο σημείο που βρίσκεστε.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_051",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 51",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι είναι σχεδόν δίπλα ευτυχώς.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_052",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 52",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Πολύ ωραία! Οπότε στέλνουμε τώρα την εντολή, υπολογίστε από τα επόμενα 10 λεπτά μέχρι την επόμενη ώρα θα βρίσκεται στο σημείο. Ενημερωτικά πρόκειται για μια μεταφορά ανά συμβάν. Μπορώ να κρατήσω το τηλέφωνο που μιλάμε για να σας καλέσει ο συνεργάτης;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_053",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 53",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι φυσικά.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_054",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 54",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Θα συνοδεύσετε;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_055",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 55",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι θα πάω και εγώ μαζί για να το πάρω όταν το φτιάξει.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_056",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 56",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Τέλεια! Κλείνοντας θα ήθελα να ρωτήσω αν έχετε στο κινητό σας την εφαρμογή του e-food.Aν θέλετε μπορούμε να σας στείλουμε έναν κωδικό αξίας 5 ευρώ ώστε στην επόμενη παραγγελία σας να έχετε μια έκπτωση από εμάς. Μπορείτε να παραγγείλετε κάτι και όσο περιμένετε.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_057",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 57",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι, ευχαριστώ πολύ!",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_058",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 58",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ωραία, τότε θα σας τον στείλω μέσω sms. Καλή σας μέρα!",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+  "id": "roadside_case_154_emood_repeat",
+  "type": "dialogue",
+  "topic": "roadside_case",
+  "language": "el",
+  "title": "Επαναλαμβανόμενη βλάβη – κουπόνι eMood",
+  "source": "mock_generated",
+  "content": "Π: Είμαι στην Εθνική και είναι η δεύτερη φορά που με αφήνει το αμάξι μέσα σε μήνα!\nA: Λυπάμαι πολύ για την αναστάτωση. Θα στείλουμε άμεσα γερανό. Καταλαβαίνουμε την ταλαιπωρία, οπότε θα σας στείλουμε κι έναν εκπτωτικό κωδικό 50€ για eMood, ως ένδειξη συγγνώμης.",
+  "tags": ["roadside", "emood_coupon", "repeat_issue", "dialogue"] 
+  },
+  {
+    "id": "roadside_case_060",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 60",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Έχετε κάποια εικόνα σχετικά με την βλάβη που έχει παρουσιάσει το αυτοκίνητο;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_061",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 61",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Πατάω το γκάζι και φτάνει μέχρι κάτω χωρίς αντίσταση. Πιστεύω ότι έχει κοπεί η ντίζα.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_062",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 62",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Οπότε μιλάμε για μεταφορά σε συνεργείο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_063",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 63",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι έχω μιλήσει με τον μηχανικό μου.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_068",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 68",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Απ’ότι βλέπω στον χάρτη μάλλον βρίσκεστε Ελευθερίου Βενιζέλου 3 στην Μεταμόρφωση. Θέλετε να μου δώσετε και το χρώμα του αυτοκινήτου σας, για να διευκολύνουμε και τον συνάδελφο που θα φτάσει;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_069",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 69",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι, είναι ασημί.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_070",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 70",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ευχαριστώ πολύ! Έχετε μήπως και τα στοιχεία του συνεργείου που θέλετε να το πάμε;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_071",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 71",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι είναι στον Γέρακα.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_072",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 72",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Θυμάστε επωνυμία ή διεύθυνση;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_073",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 73",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Γιαννης λέγεται, είναι στην Κλεισθένους.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_074",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 74",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Από ότι βλέπω στο ίντερνετ μου βγάζει το συνεργείο του Ιωάννη Χανή στην Κλεισθένους 178 στον Γέρακα. Σας θυμίζει κάτι το όνομα;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_075",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 75",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι ναι αυτός είναι.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_076",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 76",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Πολύ ωραία. Οπότε κρατάμε αυτά τα στοιχεία. Αν θέλετε μπορείτε να ακολουθήσετε και εσείς στο συνεργείο μπαίνοντας στην καμπίνα του γερανού μας αλλιώς μπορεί να πάει και ασυνόδευτο αν έχετε συνεννοηθεί με τον μηχανικό σας.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_077",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 77",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Έχω μιλήσει με τον μάστορα θα το παραλάβει αυτός. Μέχρι τις 6 το απόγευμα θα είναι εκεί.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_078",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 78",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Υπάρχει κάποια ιδιαιτερότητα που θα έπρεπε να γνωρίζουμε σχετικά με το όχημα; Είναι για παράδειγμα αυτόματο; Τετρακίνητο; Χαμηλωμένο;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_079",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 79",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Είναι αυτόματο και το ύψος του είναι κανονικό, δεν είναι χαμηλωμένο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_080",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 80",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Μπορεί να μπεί στη νεκρά;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_081",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 81",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι στη νεκρά μπαίνει κανονικά, δεν υπάρχει πρόβλημα.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_082",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 82",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ούτε υπάρχει κάποιο φορτίο που να επιβαρύνει το όχημα, σωστά;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_083",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 83",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Όχι είναι άδειο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_084",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 84",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ευχαριστώ πολύ! Στέλνουμε λοιπόν την εντολή, υπολογίστε από τα επόμενα 10 λεπτά μέχρι την επόμενη ώρα θα βρίσκεται στο σημείο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_086",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 86",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Οπότε μιλάμε για μεταφορά σε συνεργείο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_087",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 87",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Έχετε να μου προτείνετε κάποιο;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_090",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 90",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Αν δεν έχετε κάποιο συγκεκριμένο θα μπορούσαμε να σας προτείνουμε εμείς κάποιο κοντά στην περιοχή σας για να μην ταλαιπωρείστε κιόλας. Βλέπω ένα σχετικά κοντά σας που θα μπορούσε να το αναλάβει καθώς είναι γενικό συνεργείο. Αν θέλετε να δώσω ένα τηλέφωνο ευχαρίστως.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_091",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 91",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι με βοηθάτε πολύ.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_092",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 92",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Είναι ο κύριος Λαγοπόδης και το τηλέφωνο είναι 6984974939. Καλό θα ήταν να τον καλέσετε να επιβεβαιώσετε ότι μπορεί να αναλάβει την βλάβη και ότι έχει και χώρο για να δεχτεί το όχημά σας.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_093",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 93",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Θα τον πάρω αμέσως.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_094",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 94",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Υπάρχει κάποια ιδιαιτερότητα που θα έπρεπε να γνωρίζουμε σχετικά με το όχημα; Είναι για παράδειγμα αυτόματο; Τετρακίνητο; Χαμηλωμένο;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_095",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 95",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Είναι αυτόματο και το ύψος του είναι κανονικό, δεν είναι χαμηλωμένο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_096",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 96",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Μπορεί να μπεί στη νεκρά;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_097",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 97",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι στη νεκρά μπαίνει κανονικά, δεν υπάρχει πρόβλημα.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_098",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 98",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ούτε υπάρχει κάποιο φορτίο που να επιβαρύνει το όχημα, σωστά;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_099",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 99",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Όχι είναι άδειο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_100",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 100",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ευχαριστώ πολύ! Στέλνουμε λοιπόν την εντολή, υπολογίστε από τα επόμενα 10 λεπτά μέχρι την επόμενη ώρα θα βρίσκεται στο σημείο. Θα ακολουθήσετε και εσείς στο συνεργείο;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_101",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 101",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι φυσικά.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_102",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 102",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Πολύ ωραία. Θα μπείτε στην καμπίνα του γερανού μας λοιπόν. Κλείνοντας θα ήθελα να ρωτήσω αν έχετε στο κινητό σας την εφαρμογή του e-food. Aν θέλετε μπορούμε να σας στείλουμε έναν κωδικό αξίας 5 ευρώ ώστε στην επόμενη παραγγελία σας να έχετε μια έκπτωση από εμάς. Μπορείτε να παραγγείλετε κάτι και όσο περιμένετε.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_103",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 103",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι, ευχαριστώ πολύ!",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_104",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 104",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ωραία, τότε θα σας τον στείλω μέσω sms. Καλή σας μέρα!",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+  "id": "roadside_case_161_ev_sudden_stop",
+  "type": "dialogue",
+  "topic": "roadside_case",
+  "language": "el",
+  "title": "Ηλεκτρικό – Ξαφνική διακοπή εν κινήσει",
+  "source": "mock_generated",
+  "content": "Π: Ενώ οδηγούσα, σταμάτησε απότομα και δεν ανταποκρίνεται καθόλου.\nA: Σας καταλαβαίνω. Μπορεί να είναι πρόβλημα στο BMS ή στην κύρια μπαταρία. Είστε σε ασφαλές σημείο;\nΠ: Όχι, είμαι στη μέση του δρόμου.\nA: Παραμείνετε ψύχραιμος. Στέλνω άμεσα γερανό και σας δίνω προτεραιότητα ως σοβαρό περιστατικό. Μην επιχειρήσετε να σπρώξετε. Κλείστε τα alarm και περιμένετε μέσα στο όχημα.\nΠ: Εντάξει, ευχαριστώ.\nA: Μόλις ολοκληρωθεί η μεταφορά, θα λάβετε και έναν εκπτωτικό κωδικό για eMood για την ταλαιπωρία. Είμαστε εδώ.",
+  "tags": ["electric_vehicle", "critical", "dialogue", "emood_coupon", "sudden_stop"]
+  },
+  {
+  "id": "accident_case_163_serious_injury",
+  "type": "dialogue",
+  "topic": "accident_case",
+  "language": "el",
+  "title": "Σοβαρό τροχαίο με τραυματισμό",
+  "source": "mock_generated",
+  "content": "Π: Είχαμε ένα τροχαίο, με χτύπησε ένα φορτηγό από πίσω και η γυναίκα μου έχει χτυπήσει στο κεφάλι.\nA: Είμαι εδώ για να σας βοηθήσω. Έχει ήδη κληθεί ασθενοφόρο;\nΠ: Ναι, είναι καθ’ οδόν.\nA: Πολύ καλά. Θα χρειαστούμε τοποθεσία και τις πινακίδες των εμπλεκόμενων, μόλις νιώσετε έτοιμος. Προς το παρόν, δώστε προτεραιότητα στην ασφάλειά σας. Εμείς αναλαμβάνουμε την καταγραφή και θα σας καθοδηγήσω βήμα-βήμα, χωρίς πίεση.",
+  "tags": ["accident", "serious", "injury", "dialogue"]
+  },
+  {
+    "id": "roadside_case_106",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 106",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Έχετε κάποια εικόνα σχετικά με την βλάβη που έχει παρουσιάσει η μηχανή;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_107",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 107",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Μάλλον ο διακόπτης της μίζας έχει πρόβλημα. Την φέρατε χθες στον μηχανικό μου αλλά δεν την αναλαμβάνει οπότε πρέπει να το πάμε σε ηλεκτρολόγο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_108",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 108",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Άρα η μηχανή βρίσκεται στο ίδιο σημείο που την αφήσαμε χθες;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_109",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 109",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι και θέλω να την πάρουμε από εδώ και να την πάμε σε άλλο συνεργείο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_110",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 110",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Εφόσον όμως έχει πραγματοποιηθεί ήδη μία μεταφορά, σύμφωνα με τους όρους του συμβολαίου δεν μπορούμε να μεταφέρουμε και δεύτερη φορά την μηχανή σας από την στιγμή που παραμένει η βλάβη που αναφέρθηκε αρχικά.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_111",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 111",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Και εγώ πώς θα την πάω στο συνεργείο, με τα χέρια;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_112",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 112",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Από την στιγμή που δεν μπορούμε να το αναλάβουμε εμείς θα πρέπει να απευθυνθείτε σε ιδιώτη αλλά το κόστος θα καλυφθεί από εσάς.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_113",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 113",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Και γιατί πληρώνω οδική;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_114",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 114",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Σας εξήγησα ότι βάσει όρων και νομοθεσίας, δεν καλύπτεται η δεύτερη μεταφορά.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_115",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 115",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Και εγώ τότε θα ξανακαλέσω και θα πώ ότι έμεινε από άλλη βλάβη.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_116",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 116",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Γνωρίζετε ότι οι κλήσεις ηχογραφούνται, συνεπώς δεν θα εξυπηρετηθείτε.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_117",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 117",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Καλά θα το δούμε αυτό. Είστε απαράδεκτοι.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_118",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 118",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Καλή σας μέρα.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+  "id": "accident_case_164_blocked_inside",
+  "type": "dialogue",
+  "topic": "accident_case",
+  "language": "el",
+  "title": "Τροχαίο – Εγκλωβισμός οδηγού",
+  "source": "mock_generated",
+  "content": "Π: Είχα ένα τρακάρισμα, δεν μπορώ να ανοίξω την πόρτα. Έχει κολλήσει.\nA: Σας ακούω. Πρώτα απ’ όλα, είστε τραυματισμένος;\nΠ: Όχι, αλλά δεν μπορώ να βγω.\nA: Μείνετε ήρεμος. Κλείστε τα alarm και περιμένετε εντός του οχήματος. Στέλνω άμεσα οδική βοήθεια και αν χρειαστεί, θα καλέσουμε και την Πυροσβεστική. Θα παραμείνω μαζί σας βήμα-βήμα μέχρι να φτάσουν.\nΠ: Εντάξει. Ευχαριστώ.\nA: Δεν υπάρχει λόγος ανησυχίας. Το έχετε διαχειριστεί ήδη εξαιρετικά.",
+  "tags": ["accident", "blocked", "serious", "dialogue"]
+  },
+  {
+    "id": "roadside_case_120",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 120",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Έχετε κάποια εικόνα σχετικά με την βλάβη που έχει παρουσιάσει το αυτοκίνητο;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_121",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 121",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Πηγαίναμε κανονικά και κάποια στιγμή ακούστηκε ένας θόρυβος από την μηχανή και άρχισε να ρετάρει, πήγε μπουκωμένο για λίγο και μετά έσβησε. Μπορεί να είναι αντλία βενζίνης. Ευτυχώς ήμασταν κοντά σε κάτι τουαλέτες και μπήκαμε στο πάρκινγκ. Αλλά είμαστε μέσα την εθνική και δεν ξέρω και ακριβώς πού.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_122",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 122",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Πόσα άτομα είστε στο σημείο;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_123",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 123",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Εγώ, η γυναίκα μου και τα δύο παιδιά μας. Πηγαίναμε στο χωριό.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_124",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 124",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Πού περίπου βρίσκεστε;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_125",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 125",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ακριβώς δεν μπορώ να σας πω αλλά ξεκινήσαμε από Αθήνα και πηγαίναμε στην Πρέβεζα. Περάσαμε σίγουρα την γέφυρα στο Ρίο και το Ευηνοχώρι μετά. Έχω μπροστά μου μια πινακίδα που γράφει Μεσολόγγι 15 χιλιόμετρα.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_126",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 126",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Και είπατε ότι είστε σε πάρκινγκ, σωστά;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_127",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 127",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι ναι.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_128",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 128",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Όπως βλέπω η έδρα του συμβολαίου σας είναι στην Αθήνα. Σύμφωνα με τους όρους μπορείτε να μεταβείτε σε συνεργείο είτε εντός του νομού ακινητοποίησης, δηλαδή εντός Αιτωλοακαρνανίας, είτε να επιστρέψει στην έδρα σας. Ωστόσο η επιστροφή στην έδρα είναι μια διαδικασία που μπορεί να διαρκέσει από 3 έως 5 εργάσιμες ημέρες.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_129",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 129",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Για ποιόν λόγο γίνεται αυτό;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_130",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 130",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Κάθε νομός διαθέτει έναν συγκεκριμένο αριθμό γερανών που κινούνται στα όριά του. Για να μεταφερθεί ένα όχημα από νομό σε νομό θα πρέπει να υπάρχει ένας συντονισμός μεταξύ των γερανών. Δίνουμε προτεραιότητα στα οχήματα που μένουν στον δρόμο και χρήζουν άμεσης μεταφοράς σε συνεργείο οπότε οι επαναπατρισμοί συντονίζονται σε δεύτερο χρόνο μέσα στο πλαίσιο που προαναφέραμε.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_131",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 131",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι αλλά δεν ξέρω κανένα συνεργείο εδώ. Καλύτερα να πάει στην Αθήνα στον μάστορα που ξέρω.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_132",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 132",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Κανένα πρόβλημα. Εφόσον καλύπτεται βάσει όρων και νομοθεσίας μόνο μία μεταφορά ανά συμβάν, ίσως είναι προτιμότερο σε κάποιον που εμπιστεύεστε. Θα παραλάβουμε εμείς το όχημα τώρα και αυτό θα πάει σε χώρο φύλαξης της εταιρείας.Από εκεί θα επιστρέψει στην Αθήνα μέσα σε 3 έως 5 εργάσιμες μέρες όπως σας είπα και προηγουμένως.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_133",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 133",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Να ρωτήσω κάτι; Εμείς θα μείνουμε στον δρόμο; Πώς θα γυρίσουμε;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_134",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 134",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Φυσικά καλύπτουμε εμείς κάποια από τα έξοδα για την επιστροφή σας. Για την ακρίβεια και για τα τέσσερα άτομα στο σημείο καλύπτουμε έως 50€ κατ’άτομο για δημόσιο μέσο μεταφοράς, όπως ΚΤΕΛ. Και ένα ποσό έως 20€ για ταξί μέχρι να φτάσετε στον κοντινότερο σταθμό. Σε περίπτωση που θέλετε να μετακινηθείτε μόνο με ταξί καλύπτεται συνολικά το ποσό των 100€.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_135",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 135",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Καλύτερα να πάρουμε ΚΤΕΛ. Μια ερώτηση. Αν θέλουμε να συνεχίσουμε το ταξίδι για την Πρέβεζα που πηγαίναμε;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_136",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 136",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Εφόσον είστε πιο κοντά στον προορισμό σας, ναι θα καλύψουμε το ποσό για την Πρέβεζα όπως θα το καλύπταμε για την επιστροφή στην έδρα. Απλώς κρατήστε τα αποδεικτικά για να γίνει η αποζημίωση σε δεύτερο χρόνο. Υπάρχει κάποιο συγκεκριμένο συνεργείο που θα το πάμε στην Αθήνα;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_137",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 137",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ναι θα πάει στο Car Service στο Νέο Κόσμο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_138",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 138",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Υπάρχει κάποια ιδιαιτερότητα που θα έπρεπε να γνωρίζουμε σχετικά με το όχημα; Είναι για παράδειγμα αυτόματο; Τετρακίνητο; Χαμηλωμένο;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_139",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 139",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Είναι αυτόματο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_140",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 140",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Μπορεί να μπεί στη νεκρά για είναι πιο εύκολη η μετακίνηση;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_141",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 141",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Μπαίνει κανονικά.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_142",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 142",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ούτε υπάρχει κάποιο φορτίο που να επιβαρύνει το όχημα, σωστά;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_143",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 143",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Μόνο οι αποσκευές μας στο πορτμπαγκάζ.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_144",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 144",
+    "source": "DialogsRA2.docx",
+    "content": "Α: To χρώμα του αυτοκινήτου;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_145",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 145",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Μαύρο είναι.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_146",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 146",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ευχαριστώ πολύ! Στέλνουμε λοιπόν την εντολή,υπολογίστε ότι μέσα στην επόμενη μία με μιάμιση ώρα θα βρίσκεται στο σημείο ο συνεργάτης μας. Λόγω της ιδιαιτερότητας της κατάστασης θα ζητήσουμε και μια προτεραιότητα. Αν θέλετε μπορώ να σας στείλω και κάποια τηλέφωνα ταξί που δραστηριοποιούνται στην περιοχή.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_147",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 147",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ευχαρίστως.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_148",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 148",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Ό,τι χρειαστείτε μπορείτε να μας καλέσετε ξανά.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_149",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 149",
+    "source": "DialogsRA2.docx",
+    "content": "Π: Ευχαριστώ.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_150",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 150",
+    "source": "DialogsRA2.docx",
+    "content": "Α: Παρακαλώ.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+  "id": "accident_case_165_threatening_driver",
+  "type": "dialogue",
+  "topic": "accident_case",
+  "language": "el",
+  "title": "Απειλητικός άλλος οδηγός στο σημείο",
+  "source": "mock_generated",
+  "content": "Π: Τρακάραμε και ο άλλος οδηγός με φωνάζει και με απειλεί να πω ότι φταίω εγώ.\nA: Λυπάμαι που το περνάτε αυτό. Η ασφάλειά σας είναι προτεραιότητα. Είστε σε ασφαλές σημείο;\nΠ: Όχι, είναι πολύ επιθετικός.\nA: Σας προτείνω να παραμείνετε μέσα στο όχημά σας και να καλέσετε αμέσως το 100. Εμείς συνεχίζουμε τη διαδικασία κανονικά, και μόλις μπορείτε, στείλτε μας φωτογραφίες και τα στοιχεία. Θα είμαστε εδώ σε κάθε βήμα.",
+  "tags": ["accident", "threat", "dialogue", "critical"]
+  },
+  {
+  "id": "accident_case_155_partner_small_damage",
+  "type": "dialogue",
+  "topic": "accident_case",
+  "language": "el",
+  "title": "Μικρό χτύπημα – πρόταση συνεργαζόμενου συνεργείου",
+  "source": "mock_generated",
+  "content": "Π: Έκανα όπισθεν και ακούμπησα σε κολώνα, έχει γρατζουνιά και ράγισε ο προφυλακτήρας.\nA: Εφόσον δεν υπάρχει άλλη εμπλοκή, μπορούμε να το προχωρήσουμε απευθείας για αποκατάσταση. Θέλετε να σας προτείνω συνεργείο;\nΠ: Ναι, αν έχετε κάποιο κοντά στο Χαλάνδρι.\nA: Το συνεργείο Πανικίδης είναι συνεργαζόμενο και εξειδικεύεται σε πλαστικά μέρη. Μπορούμε να στείλουμε το όχημα εκεί και να ξεκινήσει άμεσα η διαδικασία.",
+  "tags": ["partner_garage", "minor_damage", "dialogue"] 
+  },
+  {
+    "id": "roadside_case_152",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 152",
+    "source": "DialogsRA2.docx",
+    "content": "Ασφαλιστική: HD Insurance, καλημέρα, είμαι η Δέσποινα. Πώς μπορώ να βοηθήσω;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_153",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 153",
+    "source": "DialogsRA2.docx",
+    "content": "Πελάτης: Καλημέρα, έχω μείνει με το αμάξι.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_154",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 154",
+    "source": "DialogsRA2.docx",
+    "content": "Ασφαλιστική: Τι βλάβη έχει;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_155",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 155",
+    "source": "DialogsRA2.docx",
+    "content": "Πελάτης: Το χειρόφρενο έχει κλειδώσει, δεν ξεκλειδώνει. Το τιμόνι είναι βαρύ και ακίνητο. Ο μηχανικός μου δεν κατάφερε να το φτιάξει.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_156",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 156",
+    "source": "DialogsRA2.docx",
+    "content": "Ασφαλιστική: Θα στείλουμε όχημα με ροδάκια, αλλά χρειάζεται να υπογράψετε υπεύθυνη δήλωση για ενδεχόμενες ζημιές κατά τη φόρτωση.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_157",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 157",
+    "source": "DialogsRA2.docx",
+    "content": "Πελάτης: Δηλαδή αν γίνει ζημιά, θα την πληρώσω εγώ;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_158",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 158",
+    "source": "DialogsRA2.docx",
+    "content": "Ασφαλιστική: Ναι, σε διαφορετική περίπτωση θα πρέπει να καλέσετε ιδιώτη.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_159",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 159",
+    "source": "DialogsRA2.docx",
+    "content": "Πελάτης: Είστε απαράδεκτοι. Θα το πάω μόνος μου και θα ακυρώσω το συμβόλαιο.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_160",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 160",
+    "source": "DialogsRA2.docx",
+    "content": "9.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_161",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 161",
+    "source": "DialogsRA2.docx",
+    "content": "Ασφαλιστική: HD Insurance, καλημέρα, είμαι ο Μάνος. Πώς μπορώ να βοηθήσω;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_162",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 162",
+    "source": "DialogsRA2.docx",
+    "content": "Πελάτης: Έμεινα με το αμάξι. Έχει μείνει από δίσκο-πλατό. Είναι σε υπόγειο πάρκινγκ στην Κηφισιά.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_163",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 163",
+    "source": "DialogsRA2.docx",
+    "content": "Ασφαλιστική: Είναι κοντά στην έξοδο;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_164",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 164",
+    "source": "DialogsRA2.docx",
+    "content": "Πελάτης: Όχι, είναι μέσα.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_165",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 165",
+    "source": "DialogsRA2.docx",
+    "content": "Ασφαλιστική: Αν δεν μπορούμε να προσεγγίσουμε, πρέπει να καλέσετε ιδιώτη για να το φέρει στον δρόμο. Από εκεί και πέρα το αναλαμβάνουμε εμείς.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_166",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 166",
+    "source": "DialogsRA2.docx",
+    "content": "Πελάτης: Έχω οδική βοήθεια, είστε υποχρεωμένοι να έρθετε.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_167",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 167",
+    "source": "DialogsRA2.docx",
+    "content": "Ασφαλιστική: Η οδική βοήθεια καλύπτει μόνο επί του δρόμου. Αν θέλετε, μπορούμε να στείλουμε συνεργάτη για εκτίμηση ή να στείλετε φωτογραφίες.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_168",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 168",
+    "source": "DialogsRA2.docx",
+    "content": "Πελάτης: Όχι. Να έρθει γερανός τώρα.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_169",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 169",
+    "source": "DialogsRA2.docx",
+    "content": "Ασφαλιστική: Δεν γίνεται. Θέλετε τηλέφωνα ιδιωτών;",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_170",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 170",
+    "source": "DialogsRA2.docx",
+    "content": "Πελάτης: Όχι.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_171",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 171",
+    "source": "DialogsRA2.docx",
+    "content": "Οδηγίες και Κανόνες σχετικά με ΟΔΙΚΗ ΒΟΗΘΕΙΑ",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_172",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 172",
+    "source": "DialogsRA2.docx",
+    "content": "Q1: Καλύπτετε δεύτερη μεταφορά οχήματος από ένα συνεργείο σε άλλο;\nA1: Όχι. Η οδική βοήθεια καλύπτει μία μεταφορά ανά ζημιογόνο γεγονός. Αν απαιτείται δεύτερη, ο ασφαλισμένος πρέπει να απευθυνθεί σε ιδιώτη.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_173",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 173",
+    "source": "DialogsRA2.docx",
+    "content": "Q2: Τι είναι ο επαναπατρισμός οχήματος και πότε τον δικαιούμαι;\nA2: Είναι η επιστροφή του οχήματος στην έδρα που έχει δηλωθεί στο συμβόλαιο, αν η βλάβη έγινε σε άλλο νομό. Αυτό ισχύει μόνο αν έχουν περάσει 8 εργάσιμες από την έναρξη του συμβολαίου. Η μεταφορά γίνεται εντός 3–5 εργάσιμων ημερών μέσω χώρου φύλαξης.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_174",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 174",
+    "source": "DialogsRA2.docx",
+    "content": "Q3: Μεταφέρετε οχήματα που έχουν μείνει από λάστιχο;\nA3: Ναι, αλλά μόνο εντός του νομού και στο κοντινότερο βουλκανιζατέρ. Δεν υπάρχει επιλογή επαναπατρισμού για αλλαγή ελαστικού.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_175",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 175",
+    "source": "DialogsRA2.docx",
+    "content": "Q4: Τι γίνεται αν το όχημά μου έχει μπλοκαρισμένο τιμόνι ή χειρόφρενο;\nA4: Θα χρειαστεί να υπογράψετε υπεύθυνη δήλωση ότι δεν φέρουμε ευθύνη για τυχόν ζημιές κατά τη φόρτωση. Αυτό ισχύει για περιπτώσεις με ηλεκτρικό χειρόφρενο, χρήση ροδακίων, ή ρυμούλκηση με εργάτη.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "roadside_case_176",
+    "type": "dialogue",
+    "topic": "road_assistance_case",
+    "language": "el",
+    "title": "Περιστατικό Οδικής Βοήθειας 176",
+    "source": "DialogsRA2.docx",
+    "content": "Q5: Τι ισχύει όταν το όχημα είναι σε υπόγειο γκαράζ;\nA5: Αν το όχημα δεν είναι προσβάσιμο από τον γερανό, πρέπει να καλέσετε ιδιώτη για να το φέρει στον δρόμο. Αν βρίσκεται κοντά στην έξοδο, ενδέχεται να εξυπηρετηθείτε απευθείας από εμάς.",
+    "tags": [
+      "roadside",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "qa_transport_other_region",
+    "type": "faq",
+    "topic": "vehicle_transport",
+    "language": "el",
+    "question": "Το όχημα πρέπει να μεταφερθεί σε άλλο νομό. Τι κάνω;",
+    "answer": "Θα πρέπει να ενεργοποιηθεί η διαδικασία του Επαναπατρισμού.",
+    "tags": [
+      "transport",
+      "inter_region",
+      "faq"
+    ],
+    "source": "QA.docx"
+  },
+  {
+    "id": "qa_no_nearby_garage",
+    "type": "faq",
+    "topic": "garage_availability",
+    "language": "el",
+    "question": "Δεν βλέπετε κοντινό συνεργείο στην περιοχή. Τι μου προτείνετε;",
+    "answer": "Δεν βλέπω κάποιο άμεσα κοντινό συνεργείο στην περιοχή. Θες να σου προτείνω κάποιο λίγο πιο μακριά ή να επιλέξεις εσύ πού να πάμε;",
+    "tags": [
+      "garage",
+      "availability",
+      "faq"
+    ],
+    "source": "QA.docx"
+  },
+  {
+    "id": "qa_fasttrack_conditions",
+    "type": "faq",
+    "topic": "fasttrack",
+    "language": "el",
+    "question": "Ποιες περιπτώσεις θεωρούνται Fast Track;",
+    "answer": "Αν σε χτύπησε όχημα από πίσω, αν ήσουν σταθμευμένος, αν ο άλλος παραβίασε STOP ή άλλη σήμανση, ή αν υπήρχε γενική απαγόρευση.",
+    "tags": [
+      "fasttrack",
+      "faq",
+      "accident_type"
+    ],
+    "source": "QA.docx"
+  },
+  {
+    "id": "qa_fraud_signs",
+    "type": "faq",
+    "topic": "fraud",
+    "language": "el",
+    "question": "Ποιες περιπτώσεις εξετάζονται ως πιθανή απάτη;",
+    "answer": "Όταν γνωρίζονται μεταξύ τους οι εμπλεκόμενοι, οι ζημιές δεν ταιριάζουν, ή το ατύχημα συνέβη κοντά στην ημερομηνία έναρξης του συμβολαίου.",
+    "tags": [
+      "fraud",
+      "investigation",
+      "faq"
+    ],
+    "source": "QA.docx"
+  },
+  {
+    "id": "accident_case_150",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 150",
+    "source": "DialogsAC2.docx",
+    "content": "Π: Έχω τρακάρει με τον θείο μου. Το συμβόλαιό μου στην εταιρία έχει ξεκινήσει μια εβδομάδα πριν.",
+    "tags": [
+      "fraud",
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_150",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 150",
+    "source": "DialogsAC2.docx",
+    "content": "A: Εάν το όχημά σας είναι χαμηλωμένο, το τιμόνι είναι στραμμένο ή το χειρόφρενο είναι μπλοκαρισμένο, θα πρέπει να υπογράψετε υπεύθυνη δήλωση σε αυτό το σάιτ: https://sign.hellasdirect.gr.",
+    "tags": [
+      "statement",
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_150",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 150",
+    "source": "DialogsAC2.docx",
+    "content": "A: Εάν το όχημά σας πρέπει να ανυψωθεί από τα ψαλίδια ή βρίσκεται σε λάσπη ή άμμο, θα πρέπει να υπογράψετε υπεύθυνη δήλωση σε αυτό το σάιτ: https://sign.hellasdirect.gr.",
+    "tags": [
+      "statement",
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_150",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 150",
+    "source": "DialogsAC2.docx",
+    "content": "A: Εάν το όχημά σας πρέπει να ανυψωθεί από τα ψαλίδια ή βρίσκεται σε λάσπη ή άμμο, θα πρέπει να υπογράψετε υπεύθυνη δήλωση σε αυτό το σάιτ: https://sign.hellasdirect.gr.",
+    "tags": [
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_150",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 150",
+    "source": "DialogsAC2.docx",
+    "content": "A: Εάν θέλετε το όχημά σας να μεταφερθεί σε άλλη πόλη ή νομό, θα πρέπει να υπογράψετε υπεύθυνη δήλωση σε αυτό το σάιτ: https://sign.hellasdirect.gr. Επίσης, θα ενεργοποιηθεί η διαδικασία Επαναπατρισμού.",
+    "tags": [
+      "statement",
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "accident_case_150",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Περιστατικό Ατυχήματος 150",
+    "source": "DialogsAC2.docx",
+    "content": "A: Θα πρέπει να υπογράψετε υπεύθυνη δήλωση σε αυτό το σάιτ: https://sign.hellasdirect.gr.",
+    "tags": [
+      "statement",
+      "accident",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "mock_case_e9bff33d",
+    "type": "dialogue",
+    "topic": "road_assistance",
+    "language": "el",
+    "title": "Mock - Έμεινε στο βουνό (μπαταρία)",
+    "source": "creative_mock",
+    "content": "Π: Καλησπέρα, νομίζω έμεινα από μπαταρία.\nA: Πού ακριβώς βρίσκεστε;\nΠ: Είμαι στην Πάρνηθα, κατεβαίνοντας από το Καζίνο Mont Parnes.\nA: Ευχαριστώ. Το όχημα προσπαθεί να πάρει μπρος;\nΠ: Όχι, ούτε φως δεν ανάβει. Είναι βενζινοκίνητο.\nA: Στέλνω αμέσως τεχνικό. Περιμένετε σε ασφαλές σημείο;",
+    "tags": [
+      "battery",
+      "mountain",
+      "parnitha",
+      "roadside"
+    ]
+  },
+  {
+    "id": "mock_case_5abc868f",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Mock - Ατύχημα στο φανάρι (πίσω χτύπημα)",
+    "source": "creative_mock",
+    "content": "Π: Ήμουν σταματημένος στο φανάρι και με χτύπησε από πίσω ένα ταξί.\nA: Υπάρχει τραυματισμός;\nΠ: Όχι, μόνο ζημιές στον προφυλακτήρα.\nA: Είναι Fast Track περίπτωση, θα προχωρήσουμε άμεσα με τη δήλωση.",
+    "tags": [
+      "accident",
+      "rear_hit",
+      "fast_track",
+      "traffic_light"
+    ]
+  },
+  {
+    "id": "mock_case_f32d90e0",
+    "type": "dialogue",
+    "topic": "road_assistance",
+    "language": "el",
+    "title": "Mock - Όχημα κολλημένο σε λάσπη",
+    "source": "creative_mock",
+    "content": "Π: Το αμάξι κόλλησε σε λάσπη εκτός δρόμου και δεν κουνιέται.\nA: Είναι ασφαλές το σημείο;\nΠ: Ναι, αλλά οι τροχοί γυρίζουν στο κενό.\nA: Θα στείλουμε γερανό με εργάτη. Θα χρειαστεί να υπογράψετε υπεύθυνη δήλωση.",
+    "tags": [
+      "mud",
+      "offroad",
+      "responsibility_declaration",
+      "winch"
+    ]
+  },
+  {
+    "id": "mock_case_24628708",
+    "type": "dialogue",
+    "topic": "accident_case",
+    "language": "el",
+    "title": "Mock - Ατύχημα κοντά στην έναρξη συμβολαίου (ύποπτο)",
+    "source": "creative_mock",
+    "content": "Π: Έκανα ασφάλεια πριν 2 μέρες και σήμερα με τράκαρε ένας γνωστός μου κατά λάθος.\nA: Ευτυχώς είστε καλά. Θα χρειαστούμε όλα τα στοιχεία και θα σας συνδέσουμε με εκπρόσωπο για λεπτομερή καταγραφή.",
+    "tags": [
+      "fraud_suspected",
+      "new_contract",
+      "accident",
+      "manual_escalation"
+    ]
+  }
+]
